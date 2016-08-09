@@ -3,6 +3,11 @@ callback([
   {
     "text": "Shoreline Media Marketing on Github",
     "href": "/"
+  } ,
+
+  {
+    "text": "About Us",
+    "href": "/about/"
   } 
 
 ])
