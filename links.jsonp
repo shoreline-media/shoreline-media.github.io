@@ -6,8 +6,8 @@ callback([
   } ,
 
   {
-    "text": "About Us",
-    "href": "/about/"
+    "text": "Playbook",
+    "href": "/2017/03/02/index/"
   } 
 
 ])
