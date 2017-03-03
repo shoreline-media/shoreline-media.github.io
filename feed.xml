@@ -3,19 +3,19 @@
   <channel>
     <title>Shoreline Media Marketing on Github</title>
     <description>Shoreline Media Marketing provides full service web marketing including web design and development, SEO, Content Strategies, Social Media Marketing, Pay-Per-Click Ad Management and more. Visit http://www.shorelinemediamarketing.com</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 03 Mar 2017 15:35:48 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2017 15:35:48 +0000</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>https://shorelinemedia.github.io/</link>
+    <atom:link href="https://shorelinemedia.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 03 Mar 2017 11:39:56 -0500</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2017 11:39:56 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Playbook</title>
         <description>&lt;p&gt;A guide on how to build successful web projects.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2017/03/02/index/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/02/index/</guid>
+        <pubDate>Thu, 02 Mar 2017 00:00:00 -0500</pubDate>
+        <link>https://shorelinemedia.github.io/2017/03/02/index/</link>
+        <guid isPermaLink="true">https://shorelinemedia.github.io/2017/03/02/index/</guid>
         
         
       </item>
@@ -30,9 +30,9 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/</link>
-        <guid isPermaLink="true">http://localhost:4000/</guid>
+        <pubDate>Wed, 18 Mar 2015 00:00:00 -0400</pubDate>
+        <link>https://shorelinemedia.github.io/</link>
+        <guid isPermaLink="true">https://shorelinemedia.github.io/</guid>
         
         
       </item>
